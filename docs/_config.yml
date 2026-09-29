@@ -1,6 +1,6 @@
-theme: jekyll-theme-cayman
-remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-primer
+remote_theme: pages-themes/primer@v0.6.0
 plugins:
 - jekyll-remote-theme
-title: Radio Wiki
-description: Radio wiki homepage
+title: Radio Wiki homepage
+description: Table of content
