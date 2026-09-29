@@ -3,6 +3,6 @@ layout: default
 id: home
 ---
 
-# Home
+# Index
 * [VHF page](./VHF.md)
 * [UHF page](./UHF.md)
