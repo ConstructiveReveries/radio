@@ -1,5 +1,6 @@
 ---
 layout: default
+id: home
 ---
 
 # Table of contents
