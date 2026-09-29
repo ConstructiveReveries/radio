@@ -3,10 +3,7 @@ remote_theme: pages-themes/primer@v0.6.0
 plugins:
 - jekyll-remote-theme
 title: Radio Wiki
-description: 📡
+description: test📡test
 sidebar:
-  - home
-  - label: Bands
-    children:
-      - VHF
-      - UHF
+  - VHF
+  - UHF
